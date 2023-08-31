@@ -11,8 +11,6 @@ located in the lru_entry_t structure may be modified to reflect the data the
 programmer wishes to cache and the identifier of that data. These changes however, 
 may need to be reflected in the cache.c file.
 
---------------------------------------------------------------------------------------
-
 # Dependencies
 
 This code relies on the C Standard Library function "calloc" located in 
