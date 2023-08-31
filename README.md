@@ -3,7 +3,7 @@ Template implementation of a dynamically memory allocated linked list cache usin
 
 --------------------------------------------------------------------------------------
 
-ABOUT
+# About
 
 This code is an implementation of a dynamically memory allocated linked list cache using 
 the least recently used algorithm. It is intended to be a proof of concept or template and not 
@@ -15,7 +15,7 @@ may need to be reflected in the cache.c file.
 
 --------------------------------------------------------------------------------------
 
-DEPENDENCIES
+# Dependencies
 
 This code relies on the C Standard Library function "calloc" located in 
 the stdlib.h header file. Some low level implementations such as "lru_cache_pop" and
