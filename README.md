@@ -3,8 +3,7 @@ Template implementation of a dynamically memory allocated linked list cache usin
 
 # About
 
-This code is an implementation of a dynamically memory allocated linked list cache using 
-the least recently used algorithm. It is intended to be a proof of concept or template and not 
+This code is intended to be a proof of concept or template and not 
 directly used in projects. Those who wish to use this lru cache are free to customize 
 the HASH macro to their desired implementation. The "value" or "key" fields 
 located in the lru_entry_t structure may be modified to reflect the data the 
