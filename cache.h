@@ -6,7 +6,7 @@
 /*
 MIT LICENSE
 
-Copyright 2023 Archer Pergande.
+Copyright 2023 (c) Archer Pergande.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the “Software”), to deal 
